@@ -103,7 +103,7 @@ python table_generator.py   # 表格生成
 
 ## 注意事项
 
-1. **ChromeDriver版本**: 版本需与本地Chrome浏览器匹配，可从 https://googlechromelabs.github.io/chromedriver/ 下载
+1. **ChromeDriver版本**: 版本需与本地Chrome浏览器匹配
 2. **登录要求**: 小红书和新榜爬虫都需要手动登录账号
 3. **数据文件**: 分析脚本依赖特定的Excel文件，请确保数据格式正确
 4. **字体支持**: 图表生成需要中文字体支持，Windows系统默认包含
@@ -115,3 +115,4 @@ python table_generator.py   # 表格生成
 
 
 本项目仅供学习和研究使用，请遵守相关平台的使用条款。
+
